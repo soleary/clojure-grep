@@ -1,10 +1,10 @@
 # grep
 
-The world's slowest grep executable
+The world's slowest, least flexible, least user-friendly grep.
 
 ## Usage
 
-`clj -m grep <regex> <files>`
+`./grep <pattern> <files>`
 
 ## License
 
